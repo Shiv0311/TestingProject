@@ -1,2 +1,2 @@
-This is my Second Project. - tester new - editing this file for git pull
+This is my Second Project. - tester new - editing this file for git pull and git push
 
